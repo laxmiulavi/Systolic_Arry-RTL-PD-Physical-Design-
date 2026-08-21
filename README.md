@@ -206,3 +206,10 @@ VLSI | RTL Design | Physical Design | Digital Design | RISC-V
 ## ⭐ Project Summary
 
 A complete **Systolic Array RTL-to-Physical Design project** demonstrating Verilog RTL development, synthesis using **Cadence Genus**, and physical implementation using **Cadence Innovus**, including floorplanning, power planning, placement, CTS, routing, and timing analysis.
+1.jpeg
+2.jpeg
+3.jpeg
+4.jpeg
+5.jpeg
+6.jpeg
+7.jpeg
